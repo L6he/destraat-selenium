@@ -21,7 +21,7 @@ namespace Destraat_Testing
                 if (method == null)
                 {
                     //antakse testile suurim võimalik täisarv
-                    return int.MaxValue;
+                    return int.MaxValue; //"kui ei ole väärtust, lükkab see kas kõige ette või lõppu"
                 }
                 else
                 {
