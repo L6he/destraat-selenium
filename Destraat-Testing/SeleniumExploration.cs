@@ -3,7 +3,7 @@ using OpenQA.Selenium.Firefox;
 
 namespace Destraat_Testing
 {
-    public class UnitTest1
+    public class SeleniumExploration
     {
         [Fact] //"samamoodi nagu vitestis oli 'test'", iga test algab nii
         public void Test1()
